@@ -38,4 +38,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 ## Contact
 
-Questions? Email YOUR_DEV_EMAIL
+Questions? Email dochiphi.dev@gmail.com
